@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-![](https://tenor.com/bTH37.gif)
+<img src='https://tenor.com/bTH37.gif' />
 Just a regular man that likes to anime stuff, and a newbie programmer
 
 
