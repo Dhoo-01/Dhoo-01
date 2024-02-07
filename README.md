@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-![hatsune-miku](https://tenor.com/bTH37.gif)
+![onyaaaa](honkai-honkaiipmac3.gif)
 Just a regular man that likes to anime stuff, and a newbie programmer
 
 
