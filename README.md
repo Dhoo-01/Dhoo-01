@@ -1,7 +1,7 @@
 
 # 💫 About Me:
-![onyaaaa](honkai-honkaiipmact3rd.gif)
 Just a regular man that likes to anime stuff, and a newbie programmer
+![onyaaaa](honkai-honkaiipmact3rd.gif)
 
 
 # 💻 Tech Stack:
